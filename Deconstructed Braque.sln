@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deconstructed Braque", "Deconstructed Braque.csproj", "{448BC5BA-CFFF-FC77-18D2-BFBE09A06CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deconstructed Braque.Editor", "Deconstructed Braque.Editor.csproj", "{65C52231-7B10-EFD7-0741-40901815B4EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{448BC5BA-CFFF-FC77-18D2-BFBE09A06CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448BC5BA-CFFF-FC77-18D2-BFBE09A06CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448BC5BA-CFFF-FC77-18D2-BFBE09A06CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448BC5BA-CFFF-FC77-18D2-BFBE09A06CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C52231-7B10-EFD7-0741-40901815B4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C52231-7B10-EFD7-0741-40901815B4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C52231-7B10-EFD7-0741-40901815B4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C52231-7B10-EFD7-0741-40901815B4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
